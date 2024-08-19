@@ -22,3 +22,16 @@ npm install
 ```bash
 npm run dev
 ```
+
+### 4. Build the App
+
+```bash
+npm run build
+```
+
+### 5. Start the App
+
+```bash
+npm start
+```
+
