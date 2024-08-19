@@ -5,13 +5,10 @@
     "type": "module",
     "scripts": {
         "dev": "tsc && nodemon dist/index.js",
-        "build": "tsc"
-    },
-    "dependencies": {
-        "express": "^4.19.2",
+        "build": "tsc",
+        "start": "node dist/index.js"
     },
     "devDependencies": {
-        "@types/express": "^4.17.21",
         "@types/node": "^22.4.0",
         "nodemon": "^3.1.4",
         "typescript": "^5.5.4"
